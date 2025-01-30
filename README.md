@@ -19,7 +19,7 @@ Below are the five interactive dashboards developed for the project:
    - Displays total revenue, total rides, and average fare per ride.
 
 ### 2️⃣ **Vehicle Type Analysis**
-   ![Vehicle Type Dashboard](images/Vehicle Type.png)
+   ![Vehicle Type Dashboard](images/Vehicle.png)
    - Analyzes revenue, ride count, and performance by vehicle type.
    - Compares popular ride choices across different cities.
 
