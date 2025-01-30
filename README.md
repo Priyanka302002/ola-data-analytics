@@ -34,7 +34,7 @@ Below are the five interactive dashboards developed for the project:
    - Highlights key reasons for cancellations and trends.
 
 ### 5️⃣ **User Ratings & Satisfaction**
-   ![Ratings Dashboard](images/Rating.png)
+   ![Ratings Dashboard](images/Ratings.png)
    - Analyzes customer feedback and ratings.
    - Displays average ratings and sentiment trends.
 
@@ -50,5 +50,5 @@ This project provides valuable insights into Ola’s operations. The dashboards 
 For any queries or collaboration, feel free to reach out!
 
 🔗 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/j-priyanka-735056305/)  
-📧 **Email:** [Your Email](priyajolingi@gmail.com)
+
 
